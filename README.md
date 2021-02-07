@@ -11,8 +11,8 @@
 > 코랩으로 딥러닝 기초를 공부하고 있습니다 :D
 
 
-- 👯 I’m looking to collaborate on NLU chatbot/voicebot projects.  
-> 자연어이해 챗봇/음성인식 프로젝트 메이트를 찾아요.  
+- 👯 I’m looking to collaborate on NLU(KR) chatbot/voicebot projects.  
+> 한국어 자연어이해 챗봇/음성인식 프로젝트 메이트를 찾아요.  
 > 생산성을 높이는 애플리케이션 개발에 관심있습니다.  
 
 
