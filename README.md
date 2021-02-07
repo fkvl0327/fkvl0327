@@ -10,12 +10,12 @@
 
 - 👯 I’m looking to collaborate on NLU chatbot/voicebot projects. 자연어이해 챗봇/음성인식 프로젝트 협업을 하고 싶어요!
 
-- 📚 Skills I've got... 부족하지만 시도해 본 것들은 다음과 같습니다.
+- 📚 Skills I've been adventuring... 아래는 몇달 간 시도하고 모험해 본 것들이에요
 
-<img src="https://img.shields.io/badge/JAVA-BLUEVIOLET?style=for-the-badge"> <img src="https://img.shields.io/badge/PYTHON-BLUEVIOLET?style=for-the-badge">
-<img src="https://img.shields.io/badge/JAVASCRIPT-BLUEVIOLET?style=for-the-badge">
-<img src="https://img.shields.io/badge/ORACLE-BLUEVIOLET?style=for-the-badge">
-<img src="https://img.shields.io/badge/MariaDB-BLUEVIOLET?style=for-the-badge">
+<img src="https://img.shields.io/badge/JAVA-BLUE?style=for-the-badge"> <img src="https://img.shields.io/badge/PYTHON-BLUE?style=for-the-badge">
+<img src="https://img.shields.io/badge/JAVASCRIPT-BLUE?style=for-the-badge">
+<img src="https://img.shields.io/badge/ORACLE-BLUE?style=for-the-badge">
+<img src="https://img.shields.io/badge/MariaDB-BLUE?style=for-the-badge">
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=fkvl0327&show_icons=true)
 
