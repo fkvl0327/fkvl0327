@@ -16,13 +16,13 @@
 
 
 - 📚 Skills I've been navigating... 
-
 <img src="https://img.shields.io/badge/JAVA-BLUE?style=for-the-badge"> <img src="https://img.shields.io/badge/PYTHON-BLUE?style=for-the-badge">
 <img src="https://img.shields.io/badge/JAVASCRIPT-BLUE?style=for-the-badge">
 <img src="https://img.shields.io/badge/ORACLE-BLUE?style=for-the-badge">
 <img src="https://img.shields.io/badge/MariaDB-BLUE?style=for-the-badge">
 
+![Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username={fkvl0327}&langs_count=8)
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=fkvl0327&show_icons=true)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=fkvl0327&show_icons=true&theme=dark)
 
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=fkvl0327)](https://solved.ac/fkvl0327)
