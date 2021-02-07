@@ -16,6 +16,7 @@
 
 
 - 📚 Skills I've been navigating...  
+  
 <img src="https://img.shields.io/badge/JAVA-BLUE?style=for-the-badge"> <img src="https://img.shields.io/badge/PYTHON-BLUE?style=for-the-badge"> <img src="https://img.shields.io/badge/JAVASCRIPT-BLUE?style=for-the-badge"> <img src="https://img.shields.io/badge/ORACLE-BLUE?style=for-the-badge"> <img src="https://img.shields.io/badge/MariaDB-BLUE?style=for-the-badge">
 
 ![Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=fkvl0327&langs_count=8)
