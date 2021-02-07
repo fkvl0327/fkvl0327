@@ -27,6 +27,5 @@
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=fkvl0327&show_icons=true&theme=dark)
 
-[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=fkvl0327)](https://solved.ac/fkvl0327)
-
-![Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=fkvl0327&langs_count=8) 
+<!--[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=fkvl0327)](https://solved.ac/fkvl0327)
+![Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=fkvl0327&langs_count=8) -->
