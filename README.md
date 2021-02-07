@@ -5,6 +5,7 @@
 
 - 🌱 I’m currently learning
 > Java8, Javascript(ES6), HTML5, Spring framework for server developing with Eclipse
+
 > deepLearning basics with colab
 
 - 👯 I’m looking to collaborate on NLU chatbot/voicebot projects.
