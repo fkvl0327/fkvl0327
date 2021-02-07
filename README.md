@@ -1,16 +1,16 @@
-### Hi, there! Welcome to Yun Oh's github 👋
+### Hi, there! Welcome to Yun Oh's github 안녕하세요, 오윤의 깃허브에 어서오세요 👋
 
 <!--
 **fkvl0327/fkvl0327** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 - 🌱 I’m currently learning
-> Java8, Javascript(ES6), HTML5, Spring framework for server developing with Eclipse
+> Java8, Javascript(ES6), HTML5, Spring framework for server developing with Eclipse 이클립스IDE로 자바8, 자바스크립트(ES6), HTML, 스프링 프레임워크
 
-> deepLearning basics with colab
+> deepLearning basics with colab 코랩으로 딥러닝 기초를 공부하고 있습니다 :D
 
-- 👯 I’m looking to collaborate on NLU chatbot/voicebot projects.
+- 👯 I’m looking to collaborate on NLU chatbot/voicebot projects. 자연어이해 챗봇/음성인식 프로젝트 협업을 하고 싶어요!
 
-- 📚 Skills I've got...
+- 📚 Skills I've got... 부족하지만 시도해 본 것들은 다음과 같습니다.
 
 <img src="https://img.shields.io/badge/JAVA-BLUEVIOLET?style=for-the-badge"> <img src="https://img.shields.io/badge/PYTHON-BLUEVIOLET?style=for-the-badge">
 <img src="https://img.shields.io/badge/JAVASCRIPT-BLUEVIOLET?style=for-the-badge">
