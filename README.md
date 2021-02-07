@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning Spring framework for server developing & deepLearning basics with colab!
 - 👯 I’m looking to collaborate on NLU chatbot/voicebot projects.
 
-<img src="https://img.shields.io/badge/JAVA-BLUEVIOLET?style=for-the-badge"><img src="https://img.shields.io/badge/PYTHON-BLUEVIOLET?style=for-the-badge">
+<img src="https://img.shields.io/badge/JAVA-BLUEVIOLET?style=for-the-badge"> <img src="https://img.shields.io/badge/PYTHON-BLUEVIOLET?style=for-the-badge">
 <img src="https://img.shields.io/badge/JAVASCRIPT-BLUEVIOLET?style=for-the-badge">
 <img src="https://img.shields.io/badge/ORACLE-BLUEVIOLET?style=for-the-badge">
 <img src="https://img.shields.io/badge/MariaDB-BLUEVIOLET?style=for-the-badge">
