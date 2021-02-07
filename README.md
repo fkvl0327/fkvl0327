@@ -15,7 +15,7 @@
 자연어이해 챗봇/음성인식 프로젝트 협업을 하고 싶어요.
 
 
-- 📚 Skills I've been navigating...  
+- 📚 Skills I've been navigating...      
 <img src="https://img.shields.io/badge/JAVA-BLUE?style=for-the-badge"> <img src="https://img.shields.io/badge/PYTHON-BLUE?style=for-the-badge">
 <img src="https://img.shields.io/badge/JAVASCRIPT-BLUE?style=for-the-badge">
 <img src="https://img.shields.io/badge/ORACLE-BLUE?style=for-the-badge">
