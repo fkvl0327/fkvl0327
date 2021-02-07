@@ -11,6 +11,6 @@
 - 📫 How to reach me: fkvl0327@gmail.com
 - ⚡ Fun fact: ...
 
-https://img.shields.io/badge/<JAVA>-<BLUE>"
+https://img.shields.io/badge/<JAVA>-<BLUE>
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=fkvl0327&show_icons=true)
