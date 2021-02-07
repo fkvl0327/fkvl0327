@@ -10,9 +10,13 @@
 
 - 👯 I’m looking to collaborate on NLU chatbot/voicebot projects.
 
+- Skills
+
 <img src="https://img.shields.io/badge/JAVA-BLUEVIOLET?style=for-the-badge"> <img src="https://img.shields.io/badge/PYTHON-BLUEVIOLET?style=for-the-badge">
 <img src="https://img.shields.io/badge/JAVASCRIPT-BLUEVIOLET?style=for-the-badge">
 <img src="https://img.shields.io/badge/ORACLE-BLUEVIOLET?style=for-the-badge">
 <img src="https://img.shields.io/badge/MariaDB-BLUEVIOLET?style=for-the-badge">
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=fkvl0327&show_icons=true)
+
+[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=fkvl0327)](https://solved.ac/fkvl0327)
