@@ -4,10 +4,10 @@
 **fkvl0327/fkvl0327** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 - 🌱 I’m currently learning...
-> Java8, Javascript(ES6), HTML5, Spring framework for server developing with Eclipse  
+> Java8, Javascript(ES6), HTML5, Spring framework for server developing with Eclipse.  
 > 이클립스IDE로 자바8, 자바스크립트(ES6), HTML, 스프링 프레임워크를,
 
-> deepLearning basics with colab  
+> deepLearning basics with colab.  
 > 코랩으로 딥러닝 기초를 공부하고 있습니다 :D
 
 
@@ -15,7 +15,7 @@
 > NLU(KR) chatbot/voicebot projects.  
 > 한국어 자연어이해 챗봇/음성인식 프로젝트 메이트를 찾아요.  
 
-> productivity mobile/web application devops.
+> productivity mobile/web application devops.  
 > 생산성 모바일/웹 애플리케이션 개발 및 운영에 관심있습니다.  
 
 
