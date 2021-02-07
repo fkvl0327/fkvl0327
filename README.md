@@ -12,7 +12,7 @@
 
 
 - 👯 I’m looking to collaborate on NLU chatbot/voicebot projects.  
-자연어이해 챗봇/음성인식 프로젝트 협업을 하고 싶어요.
+> 자연어이해 챗봇/음성인식 프로젝트 메이트를 찾습니다.
 
 
 - 📚 Skills I've been navigating...  
