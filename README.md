@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, there! Welcome to Yun Oh's github 👋
 
 <!--
 **fkvl0327/fkvl0327** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on NLU chatbot/voicebot projects.
 
-- Skills
+- 📚 Skills I've got...
 
 <img src="https://img.shields.io/badge/JAVA-BLUEVIOLET?style=for-the-badge"> <img src="https://img.shields.io/badge/PYTHON-BLUEVIOLET?style=for-the-badge">
 <img src="https://img.shields.io/badge/JAVASCRIPT-BLUEVIOLET?style=for-the-badge">
