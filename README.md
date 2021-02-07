@@ -21,6 +21,7 @@
 
 - 🌈 My motto is... 
 > Learn by doing 시도하면서 배우는 걸 좋아합니다.  
+
 > Fail fast, improve fast! 몰라도 해 보기, 부딪히기, 빨리 망하고 얼른 개선하기!
 
 
