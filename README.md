@@ -3,7 +3,7 @@
 <!--
 **fkvl0327/fkvl0327** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-- 🌱 I’m currently learning
+- 🌱 I’m currently learning...
 > Java8, Javascript(ES6), HTML5, Spring framework for server developing with Eclipse  
 > 이클립스IDE로 자바8, 자바스크립트(ES6), HTML, 스프링 프레임워크를,
 
@@ -11,14 +11,15 @@
 > 코랩으로 딥러닝 기초를 공부하고 있습니다 :D
 
 
-- 👯 I’m looking to collaborate on NLU(KR) chatbot/voicebot projects.  
+- 👯 I’m looking to collaborate on...  
+> NLU(KR) chatbot/voicebot projects.  
 > 한국어 자연어이해 챗봇/음성인식 프로젝트 메이트를 찾아요.  
 > 생산성을 높이는 애플리케이션 개발에 관심있습니다.  
 
 
-- 🌈 Motto
-> Learn by doing 방식이 좋아요.  
-> 몰라도 해 보기, 부딪히기, 빨리 망하고 얼른 개선하기!
+- 🌈 My motto is... 
+> Learn by doing 시도하면서 배우는 걸 좋아합니다.  
+> Fail fast, get better fast! 몰라도 해 보기, 부딪히기, 빨리 망하고 얼른 개선하기!
 
 
 - 📚 Skills I've been navigating...  
