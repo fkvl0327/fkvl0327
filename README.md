@@ -13,7 +13,13 @@
 
 - 👯 I’m looking to collaborate on NLU chatbot/voicebot projects.  
 > 자연어이해 챗봇/음성인식 프로젝트 메이트를 찾아요.  
-> 생산성을 높이는 애플리케이션 개발에 관심이 있습니다.
+> 생산성을 높이는 애플리케이션 개발에 관심이 있습니다.  
+
+
+- 🌈 Fun facts?
+> Learn by doing 방식이 좋아요.  
+> 몰라도 해 보기, 부딪히기, 빨리 망하고 얼른 개선하기!
+
 
 - 📚 Skills I've been navigating...  
   
