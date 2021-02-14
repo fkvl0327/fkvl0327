@@ -7,7 +7,7 @@
 > Java8, Javascript(ES6), HTML5, Spring framework for server developing with Eclipse,  
 > 이클립스IDE로 자바8, 자바스크립트(ES6), HTML, 스프링 프레임워크를,
 
-> & deepLearning basics with colab.  
+> & deepLearning basics with Colab.  
 > 코랩으로 딥러닝 기초를 공부하고 있습니다 :D
 
 
