@@ -12,9 +12,6 @@
 
 
 - 👯 I’m looking to collaborate on...  
-> NLU(KR) chatbot/voicebot projects.  
-> 한국어 자연어이해 챗봇/음성인식 프로젝트 메이트를 찾아요.  
-
 > productivity mobile/web application DevOps.  
 > 생산성 모바일/웹 애플리케이션 개발 및 운영에 관심있습니다.  
 
